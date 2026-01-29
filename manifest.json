@@ -1,8 +1,9 @@
 {
-  "name": "Easy Icon Generator",
-  "short_name": "EasynCore",
-  "description": "Gerador de ativos visuais para Progressive Web Apps com redimensionamento inteligente e bordas arredondadas.",
-  "start_url": "/index.html",
+  "name": "IconCore - PWA Asset Generator",
+  "short_name": "IconCore",
+  "description": "Gerador de ativos visuais para Progressive Web Apps.",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4A90E2",
@@ -20,6 +21,4 @@
       "purpose": "any maskable"
     }
   ]
-
 }
-

@@ -1,6 +1,6 @@
 {
   "name": "Easy Icon Generator",
-  "short_name": "IconCore",
+  "short_name": "EasynCore",
   "description": "Gerador de ativos visuais para Progressive Web Apps com redimensionamento inteligente e bordas arredondadas.",
   "start_url": "/index.html",
   "display": "standalone",
@@ -22,3 +22,4 @@
   ]
 
 }
+

@@ -1,5 +1,5 @@
 {
-  "name": "IconCore - PWA Asset Generator",
+  "name": "Easy Icon Generator",
   "short_name": "IconCore",
   "description": "Gerador de ativos visuais para Progressive Web Apps com redimensionamento inteligente e bordas arredondadas.",
   "start_url": "/index.html",
@@ -20,4 +20,5 @@
       "purpose": "any maskable"
     }
   ]
+
 }
